@@ -1,5 +1,5 @@
 # Raccoon Detector Dataset
-
+这是我用TensorFlow的Object Detection API训练我自己的Raccoon探测器所收集的数据集。图像来自Google和Google。总共有200张图像（160张用于训练，40张用于验证）。
 This is a dataset that I collected to train my own Raccoon detector with [TensorFlow's Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection). Images are from Google and Pixabay. In total, there are 200 images (160 are used for training and 40 for validation).
 
 ## Getting Started
